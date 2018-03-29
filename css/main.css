@@ -1,1 +1,14 @@
-font-family: 'Merriweather', serif;
+html {
+  font-family: 'Merriweather', serif;
+}
+
+td {
+  height: 10em;
+}
+
+.green {
+  background-color: #d1e0bf;
+  color: #51603f;
+  border-color: #51603f;
+  border-radius: 8px;
+}
