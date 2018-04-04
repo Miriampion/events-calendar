@@ -9,6 +9,6 @@ td {
 .green {
   background-color: #d1e0bf;
   color: #51603f;
-  border-color: #51603f;
+  border: 1px solid #51603f;
   border-radius: 8px;
 }
