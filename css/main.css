@@ -25,5 +25,12 @@ td {
   color: #333;
   border: 1px solid #666;
   border-radius: 8px;
+}
 
+.blue {
+  background-color: #d2d6f0;
+  color: `#1d38da;
+  border: 1px solid #38448e;
+  border-radius: 8px;
+}
 }
