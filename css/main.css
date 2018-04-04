@@ -1,10 +1,14 @@
 html {
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
 }
 
 td {
   height: 10em;
 }
+
+tr {
+  border: 1px solid #ccc;
+  }
 
 .green {
   background-color: #d1e0bf;
@@ -29,8 +33,11 @@ td {
 
 .blue {
   background-color: #d2d6f0;
-  color: `#1d38da;
+  color: #1d38da;
   border: 1px solid #38448e;
   border-radius: 8px;
 }
+
+td, th {
+  border: 1px solid #ccc;
 }
